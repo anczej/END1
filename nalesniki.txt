@@ -3,3 +3,4 @@ mąka
 mleko
 piwo
 banana
+orzechy
